@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Results and outputs - not versioned (users generate their own)
+resultados/
+
+# Temporary files
+*.log
+*.tmp
+.cache/
+.pytest_cache/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Documentation builds
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Data files (opcional - considere se quer versionar ou n�o)
+# *.csv
+# *.dat
+# *.net
+
+# Specific to this project
+*.pdf
+*.docx
+*.pptx
+*.zip
+
+# Internal documentation (not for public)
+TODO.md
+pseudocodigo_tarjan.txt
+05_limitacoes_do_estudo.txt
+docs/INSTRUCOES_CORRECOES_PROTOTIPO.md
+docs/relatorio_final/
