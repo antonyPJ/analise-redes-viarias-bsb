@@ -42,7 +42,8 @@ env/
 .DS_Store
 
 # Results and outputs - not versioned (users generate their own)
-resultados/
+resultados/*
+!resultados/.gitkeep
 
 # Temporary files
 *.log
