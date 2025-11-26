@@ -142,7 +142,7 @@ Os resultados das análises são salvos automaticamente em:
 - `resultados/*.csv` - Métricas de centralidade
 
 **Relatório Acadêmico:**  
-[📥 Download do Relatório (PDF)]([URL_RELATORIO.pdf](https://www.overleaf.com/download/project/6924ea752461d203e7b2dc95/build/19ac260434e-a785ef3ef92a61d3/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-c3d-d-f-5tlj&enable_pdf_caching=true&popupDownload=true))
+[📥 Download do Relatório (PDF)](https://drive.google.com/file/d/12BUCP0wUoLclZHe30Vg7nAo7DcSQdS1G/view?usp=sharing)
 
 **Apresentação (Slides):**  
 [📊 Download dos Slides (PDF)](https://drive.google.com/file/d/10a1ES3nXkfMT-szvXWIa8q5nu3X4xtel/view?usp=sharing)
