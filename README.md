@@ -80,6 +80,25 @@ python src/analise_centralidades.py
 python src/analise_impacto.py
 ```
 
+### Simulação de Fluxo Viário
+```bash
+cd simular
+python simulacao_fluxo.py
+```
+
+Este módulo realiza uma **simulação simplificada de tráfego** sobre a rede viária:
+- Lê o fluxo total diário
+- Distribui o fluxo ao longo de 24 horas
+- Simula agentes percorrendo caminhos mínimos
+- Calcula o índice de saturação de cada via
+- Gera arquivo `resultado_fluxo.csv` com carga estimada por segmento
+
+**Parâmetros configuráveis:**
+- `VEIC_POR_AGENT`: Veículos representados por agente
+- `CAPACIDADE`: Capacidade estimada de cada via (veículos/hora)
+- `MAX_AGENTES`: Número máximo de agentes por hora
+- `DIA`: Data do fluxo a ser analisado
+
 ## Estrutura do Projeto
 
 ```
@@ -94,6 +113,11 @@ trabalho_final_grafos/
 │   ├── analise_estrutural.py      # Pontes e pontos de articulação
 │   ├── analise_centralidades.py   # Medidas de centralidade
 │   └── analise_impacto.py         # Simulação de bloqueios
+├── simular/                       # Simulação de fluxo viário
+│   ├── simulacao_fluxo.py         # Script de simulação de tráfego
+│   ├── brasilia_edge_info.txt     # Informações da malha viária
+│   ├── fluxo_total_por_dia.csv    # Fluxo total por data
+│   └── resultado_fluxo.csv        # Saída da simulação
 ├── resultados/                    # Outputs gerados (criado na execução)
 │   ├── graficos/                  # Visualizações em PNG
 │   └── *.txt                      # Relatórios textuais
