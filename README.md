@@ -145,7 +145,7 @@ Os resultados das análises são salvos automaticamente em:
 [📥 Download do Relatório (PDF)]([URL_RELATORIO.pdf](https://www.overleaf.com/download/project/6924ea752461d203e7b2dc95/build/19ac260434e-a785ef3ef92a61d3/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-c3d-d-f-5tlj&enable_pdf_caching=true&popupDownload=true))
 
 **Apresentação (Slides):**  
-[📊 Download dos Slides (PDF)](URL_SLIDES.pdf)
+[📊 Download dos Slides (PDF)](https://drive.google.com/file/d/10a1ES3nXkfMT-szvXWIa8q5nu3X4xtel/view?usp=sharing)
 
 **Vídeo de Apresentação:**  
 [▶️ Assistir no YouTube](https://www.youtube.com/watch?v=eBh6yxcC7p4)
