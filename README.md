@@ -117,6 +117,15 @@ Os resultados das análises são salvos automaticamente em:
 - `resultados/*.txt` - Relatórios técnicos
 - `resultados/*.csv` - Métricas de centralidade
 
+**Relatório Acadêmico:**  
+[📥 Download do Relatório (PDF)]([URL_RELATORIO.pdf](https://www.overleaf.com/download/project/6924ea752461d203e7b2dc95/build/19ac260434e-a785ef3ef92a61d3/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-c3d-d-f-5tlj&enable_pdf_caching=true&popupDownload=true))
+
+**Apresentação (Slides):**  
+[📊 Download dos Slides (PDF)](URL_SLIDES.pdf)
+
+**Vídeo de Apresentação:**  
+[▶️ Assistir no YouTube](https://youtube.com/watch?v=SEU_VIDEO_ID)
+
 ## Licença
 
 MIT License - Projeto acadêmico desenvolvido para fins educacionais.
